@@ -2,7 +2,7 @@
 Description du projet
 Le projet Détection de Fraude sur Cartes Bancaires a pour objectif de développer un modèle de machine learning capable de détecter des transactions frauduleuses dans un jeu de données contenant des informations sur des transactions financières. Le modèle utilise des techniques avancées de machine learning pour classer les transactions comme frauduleuses ou non frauduleuses, afin de contribuer à améliorer la sécurité des paiements électroniques.
 
-Table des matières
+<h3>Table des matières</h3>
 Contexte et Objectifs
 Technologies Utilisées
 Installation
@@ -15,7 +15,7 @@ Conclusion
 Contexte et Objectifs
 Les fraudes par carte bancaire représentent un défi majeur pour les institutions financières et les commerçants en ligne. En utilisant des données transactionnelles anonymisées, ce projet cherche à construire un modèle de machine learning pour identifier les transactions suspectes. Le but est de développer un système qui aide à détecter rapidement les anomalies et prévenir les fraudes.
 
-Technologies Utilisées
+<h3>Technologies Utilisées</h3>
 Python : Langage principal pour l'analyse des données et la construction du modèle.
 Pandas : Bibliothèque pour la manipulation des données.
 Matplotlib / Seaborn : Outils pour la visualisation des données.
@@ -24,7 +24,7 @@ Jupyter Notebook : Environnement de développement interactif utilisé pour ce p
 Analyse Exploratoire des Données (EDA)
 Avant de construire le modèle, une étape d'analyse exploratoire des données (EDA) a été réalisée pour comprendre les caractéristiques du jeu de données et identifier les variables pertinentes pour la détection des fraudes. Voici les étapes clés de l'EDA :
 
-Analyse des données manquantes : Identification et traitement des valeurs manquantes.
+<h3>Analyse des données manquantes : Identification et traitement des valeurs manquantes.</h3>
 Visualisation des distributions : Exploration des distributions des variables et identification des anomalies.
 Corrélations : Étude des relations entre les variables pour déterminer leur impact potentiel sur le modèle.
 Préparation des Données
