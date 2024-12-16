@@ -47,6 +47,6 @@ F1-score : Moyenne harmonique entre précision et rappel, pour équilibrer les d
 Conclusion
 Ce projet de détection de fraude sur cartes bancaires démontre l'utilisation de techniques de machine learning pour résoudre un problème du monde réel. Il peut être amélioré en explorant davantage d'algorithmes et en affinant le prétraitement des données pour augmenter encore la performance du modèle.
 
-À propos de ce projet
+<h3>À propos de ce projet</h3>
 Ce projet a été développé dans le cadre de ma formation en data science et est un excellent exemple de l'application des compétences acquises dans les domaines de l'analyse de données et du machine learning. Mon objectif est de montrer ma capacité à manipuler des données complexes et à créer des modèles efficaces qui peuvent résoudre des problèmes pratiques dans l'industrie.
 
