@@ -1,4 +1,4 @@
-Détection de Fraude sur Cartes Bancaires
+<h1>Détection de Fraude sur Cartes Bancaires</h1>
 Description du projet
 Le projet Détection de Fraude sur Cartes Bancaires a pour objectif de développer un modèle de machine learning capable de détecter des transactions frauduleuses dans un jeu de données contenant des informations sur des transactions financières. Le modèle utilise des techniques avancées de machine learning pour classer les transactions comme frauduleuses ou non frauduleuses, afin de contribuer à améliorer la sécurité des paiements électroniques.
 
